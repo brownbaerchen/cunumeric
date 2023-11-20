@@ -2,6 +2,7 @@ name: cunumeric-test
 channels:
   - conda-forge
   - defaults
+  - nvidia/label/cuda-12.2.0
 dependencies:
   - python=3.8
 
